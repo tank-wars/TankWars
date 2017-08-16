@@ -34,8 +34,6 @@ public class UITank
 
 		UIReferenceMap.Instance.Players.Add(tankGameObject);
 
-
-			
 		Debug.Log ("Tank Added");
 		TankCount++;
 	}
